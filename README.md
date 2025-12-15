@@ -1,5 +1,4 @@
 # Predicting House Prices with Linear Regression
- Project Overview
  This project demonstrates how to build a machine learning model using **Linear Regression** to
  predict house prices based on multiple numerical features.
  It includes steps from data loading to model evaluation and visualization.--
